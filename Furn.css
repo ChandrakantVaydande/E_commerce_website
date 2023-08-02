@@ -1,0 +1,278 @@
+#navbarNavAltMarkupkup{
+    background-color: bisque;
+}
+#navbarNavAltMarkup img{
+    height: 80px;
+    width: 80px;
+}
+#nav{
+    background-color: bisque;  
+}
+
+.hero{
+    background-color: bisque;
+}
+#backimg{
+width: 90%;
+height: 130vh;
+}
+
+#hovercard{
+position: absolute;
+text-align: justify;
+z-index: 1;
+top: 300px;
+left: 60px;
+}
+
+#hovercard h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#hovercard button{
+    background-color: chocolate;
+    color: white;
+    font-size: 20px;
+    padding: 10px 10px;
+    border: none;
+}
+/* ---------------------------------------------------- */
+
+
+#secondBox{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: auto; 
+}
+
+.card{
+    border: none;
+}
+
+#secondBox h4{
+    color: brown;
+    margin-top: 50px;
+}
+#middle{
+    margin-top: 100px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: auto;
+    background-color: bisque;
+}
+/* ---------------------------------------------------- */
+
+
+#middle img{
+    width: 100%;
+    height: 350px;
+}
+
+#middle h5{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#middle button{
+    background-color: chocolate;
+    color: white;
+    font-size: 20px;
+    padding: 10px 10px;
+    border: none;
+}
+
+/* ----------------------------------------------------------------- */
+
+
+#section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    padding: auto;
+    background-size: cover;
+    border: none;  
+}
+
+
+h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: black;
+    margin: auto;
+    padding: auto;
+}
+
+#section h4{
+    margin-top: 50px;
+    color: brown;
+}
+/* ----------------------------------------------------------------- */
+
+
+
+#ThirdBox{
+    margin-top: 100px;
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+#ThirdBox h4{
+    color: brown;
+    margin-top: 50px;
+}
+
+
+
+#ThirdBox button{
+    margin-top: 25px;
+    position:relative;
+    top: 100%;
+    left: 45%;
+    border-color: chocolate;
+    color: chocolate;
+    font-size: 20px;
+    padding: 10px 10px;
+    width: 200px;    
+    
+}
+
+/* ----------------------------------------------------------------- */
+
+
+
+#FourthBox{
+    margin-top: 100px;
+    border: none;
+   
+    
+}
+
+#FourthBox h5{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#FourthBox button{
+    border-color: chocolate;
+    color: chocolate;
+    font-size: 15px;
+    padding: 10px 10px;
+}
+
+#FourthBox img{
+    width: 100%;
+    height: 350px;
+}
+
+/* ----------------------------------------------------------------- */
+
+
+#FifthBox{
+    margin-top: 100px;
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding: auto;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+
+#FifthBox button{
+    margin-top: 25px;
+    position:relative;
+    top: 100%;
+    left: 45%;
+    border-color: chocolate;
+    color: chocolate;
+    font-size: 20px;
+    padding: 10px 10px;
+    width: 200px;
+}
+
+#FifthBox h4{
+    color: brown;
+    margin-top: 50px;
+}
+
+/* ----------------------------------------------------------------- */
+
+
+.Abcd{
+   
+    display: flex;
+    width: fit-content;
+    /* background-size: cover; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Image{
+    display: flex;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+#Services{    
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    background-color: bisque;
+}
+#xyz{
+    display: flex;
+    justify-content: space-evenly;
+   
+    align-items:center ;
+}
+.yz{
+    /* border: 1px solid black; */
+    width: 400px;
+    display: flex;
+}
+.symbols{
+    height: 80px;
+    background-size: cover;
+}
+
+/* ----------------------------------------------------------------- */
+
+
+.Footer{
+    width: 100%;
+    padding-top: 50px;
+    margin-left: 20px;
+    background-color: rgb(8, 8, 52);
+    color: aliceblue;
+    box-sizing: border-box;
+}
+
+#symbols img{
+    width: 40px;
+    height: 40px;
+
+}
+
+
